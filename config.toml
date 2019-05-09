@@ -1,4 +1,4 @@
-baseurl = "jonathanalcantara.me"
+baseurl = "jonathanalcantara.github.io"
 title = "Jonathan Alcantara's HomePage"
 
 theme = "hugo-coder"
